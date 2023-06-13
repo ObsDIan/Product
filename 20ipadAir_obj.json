@@ -1,0 +1,161 @@
+
+    {
+        "id": "A001",
+        "name": "iPadAir",
+        "color": "#78767a",
+        "storage": 64,
+        "connection": "wifi",
+        "price": 19900
+    },
+    {
+        "id": "A002",
+        "name": "iPadAir",
+        "color": "#78767a",
+        "storage": 64,
+        "connection": "wifi+行動網路",
+        "price": 24900
+    },
+    {
+        "id": "A003",
+        "name": "iPadAir",
+        "color": "#78767a",
+        "storage": 256,
+        "connection": "wifi",
+        "price": 24900
+    },
+    {
+        "id": "A004",
+        "name": "iPadAir",
+        "color": "#78767a",
+        "storage": 256,
+        "connection": "wifi+行動網路",
+        "price": 29900
+    },
+    {
+        "id": "A005",
+        "name": "iPadAir",
+        "color": "#90b4c3",
+        "storage": 64,
+        "connection": "wifi",
+        "price": 19900
+    },
+    {
+        "id": "A006",
+        "name": "iPadAir",
+        "color": "#90b4c3",
+        "storage": 64,
+        "connection": "wifi+行動網路",
+        "price": 24900
+    },
+    {
+        "id": "A007",
+        "name": "iPadAir",
+        "color": "#90b4c3",
+        "storage": 256,
+        "connection": "wifi",
+        "price": 24900
+    },
+    {
+        "id": "A008",
+        "name": "iPadAir",
+        "color": "#90b4c3",
+        "storage": 256,
+        "connection": "wifi+行動網路",
+        "price": 29900
+    },
+    {
+        "id": "A009",
+        "name": "iPadAir",
+        "color": "#e8d2cf",
+        "storage": 64,
+        "connection": "wifi",
+        "price": 19900
+    },
+    {
+        "id": "A010",
+        "name": "iPadAir",
+        "color": "#e8d2cf",
+        "storage": 64,
+        "connection": "wifi+行動網路",
+        "price": 24900
+    },
+    {
+        "id": "A011",
+        "name": "iPadAir",
+        "color": "#e8d2cf",
+        "storage": 256,
+        "connection": "wifi",
+        "price": 24900
+    },
+    {
+        "id": "A012",
+        "name": "iPadAir",
+        "color": "#e8d2cf",
+        "storage": 256,
+        "connection": "wifi+行動網路",
+        "price": 29900
+    },
+    {
+        "id": "A013",
+        "name": "iPadAir",
+        "color": "#bcbcd3",
+        "storage": 64,
+        "connection": "wifi",
+        "price": 19900
+    },
+    {
+        "id": "A014",
+        "name": "iPadAir",
+        "color": "#bcbcd3",
+        "storage": 64,
+        "connection": "wifi+行動網路",
+        "price": 24900
+    },
+    {
+        "id": "A015",
+        "name": "iPadAir",
+        "color": "#bcbcd3",
+        "storage": 256,
+        "connection": "wifi",
+        "price": 24900
+    },
+    {
+        "id": "A016",
+        "name": "iPadAir",
+        "color": "#bcbcd3",
+        "storage": 256,
+        "connection": "wifi+行動網路",
+        "price": 29900
+    },
+    {
+        "id": "A017",
+        "name": "iPadAir",
+        "color": "#e6e1db",
+        "storage": 64,
+        "connection": "wifi",
+        "price": 19900
+    },
+    {
+        "id": "A018",
+        "name": "iPadAir",
+        "color": "#e6e1db",
+        "storage": 64,
+        "connection": "wifi+行動網路",
+        "price": 24900
+    },
+    {
+        "id": "A019",
+        "name": "iPadAir",
+        "color": "#e6e1db",
+        "storage": 256,
+        "connection": "wifi",
+        "price": 24900
+    },
+    {
+        "id": "A020",
+        "name": "iPadAir",
+        "color": "#e6e1db",
+        "storage": 256,
+        "connection": "wifi+行動網路",
+        "price": 29900
+    }

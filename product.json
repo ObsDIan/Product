@@ -1,85 +1,102 @@
 [
     {
+        "ID": "P001",
         "Name": "Iphone 14",
         "Price": 45000,
         "class": "3C"
     },
     {
+        "ID": "P002",
         "Name": "SamSung A52",
         "Price": 23000,
         "class": "3C"
     },
     {
+        "ID": "P003",
         "Name": "SamSung S20",
         "Price": 35200,
         "class": "3C"
     },
     {
+        "ID": "P004",
         "Name": "青森頻果原汁",
         "Price": 370,
         "class": "飲料"
     },
     {
+        "ID": "P005",
         "Name": "綠茶(瓶裝)",
         "Price": 25,
         "class": "飲料"
     },
     {
+        "ID": "P006",
         "Name": "辛拉麵(袋裝)",
         "Price": 50,
         "class": "食品"
     },
     {
+        "ID": "P007",
         "Name": "台酒麻油雞泡麵(碗裝)",
         "Price": 53,
         "class": "食品"
     },
     {
+        "ID": "P008",
         "Name": "台酒花雕雞泡麵(碗裝)",
         "Price": 53,
         "class": "食品"
     },
     {
+        "ID": "P009",
         "Name": "台酒酸菜牛肉泡麵(碗裝)",
         "Price": 53,
         "class": "食品"
     },
     {
+        "ID": "P010",
         "Name": "滿漢大餐珍味牛肉麵(碗裝)",
         "Price": 53,
         "class": "食品"
     },
     {
+        "ID": "P011",
         "Name": "烏龍茶(瓶裝)",
         "Price": 35,
         "class": "飲料"
     },
     {
+        "ID": "P012",
         "Name": "錫蘭奶茶(瓶裝)",
         "Price": 20,
         "class": "飲料"
     },
     {
+        "ID": "P013",
         "Name": "紅茶(瓶裝)",
         "Price": 25,
         "class": "飲料"
     },
     {
+        "ID": "P014",
         "Name": "台酒花雕雞泡麵(碗裝)",
         "Price": 53,
         "class": "食品"
     },
     {
+        "ID": "P015",
         "Name": "台酒花雕雞泡麵(袋裝)",
         "Price": 45,
         "class": "食品"
     },
     {
+        "ID": "P016",
         "Name": "Ipad Pro ",
         "Price": 53420,
         "class": "3C"
     },
     {
+        "ID": "P017",
         "Name": "筆記型電腦",
         "Price": 33023,
         "class": "3C"
